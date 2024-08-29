@@ -37,6 +37,7 @@ ways to limit noise:
 - make hardware better
 - filter noisy results out
 
+
 current practices for limiting noise:
 
 - suppression (reduce the liklihood of errors and noise) [before computation]
