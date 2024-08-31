@@ -1,8 +1,12 @@
 ### What is it?
 
-Quantum computing is new type of computing - different than classical - that allows for computations to be performed quicker and with more granularity. It's limiting factor is the natural uncertainty at the atomic scale - which is the scale it operates on.
+Quantum computing is new type of computing - different than classical - that allows for computations to be performed in parralelization rather than uniquely. It's limiting factor is the natural uncertainty at the atomic scale - which is the scale it operates on.
 
 ### How does it work?
+A quantum computer is able to simultaneously represent 2^n states, utilizing 3 main quantum mechanics:
+1. superposition - a probabilstic represenation of a pre-measured qubit
+2. entanglement - the ability for qubits to influence other qubits
+3. interference - the truth that operations alter the outcome of all entangled qubits.
 
 ### Expectations:
 
