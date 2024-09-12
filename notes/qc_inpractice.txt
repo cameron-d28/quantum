@@ -1,0 +1,5 @@
+## Running Quantum circuits
+# hardware
+
+there is a tunneling behavior in the hardware giving it nonlinear properties
+highly alibrated microwave pulses allow for us to control the qubits. this forms the basis for quantum gates.
